@@ -23,7 +23,7 @@ await connectCloudinary();
 
 
 // allow multiple origins
-const allowedOrigins = ['http://localhost:5173','https://grossery-store.vercel.app'];
+const allowedOrigins = ['http://localhost:5173','https://greencart-nine-delta.vercel.app'];
 
 
 // Stripe webhook route FIRST, before express.json()
