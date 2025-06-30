@@ -20,7 +20,7 @@ A full-stack MERN (MongoDB, Express.js, React.js, Node.js) web application for s
 
 ## Demo
 
-**Live Site:** [https://greencart-nine-delta.vercel.app/](https://greencart-nine-delta.vercel.app/))  
+**Live Site:** [https://greencart-nine-delta.vercel.app/](https://greencart-nine-delta.vercel.app/)  
 
 ## Getting Started
 
